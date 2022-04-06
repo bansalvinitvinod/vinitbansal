@@ -688,3 +688,10 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+/* Spacer */
+
+.spacer {
+    height: 2rem;
+    width: 100%;
+}
