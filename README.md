@@ -1,3 +1,5 @@
 # vinitbansal
 
-#This repository container the developer's portfolio.
+# This is a repository to host the content of vinitbansal.com
+
+Kindly visit [this site](https://vinitbansal.com)
